@@ -1,0 +1,2 @@
+D:\Work\libraries\libCppCamera\platform\Android\CppCamera\CppCamera\ARM\Debug\CppCamera.aar.recipe
+D:\Work\libraries\libCppCamera\platform\Android\CppCamera\CppCamera\ARM\Debug\CppCamera.aar

@@ -1,0 +1,49 @@
+!SESSION 2020-03-04 10:41:18.486 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0-25
+java.vendor=Microsoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-3697fa77-9ee1-4278-9c95-17f32a6921fd
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data D:\Work\libraries\libCppCamera\platform\Android\CppCamera\.workspace javapkgsrv-3697fa77-9ee1-4278-9c95-17f32a6921fd
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-03-04 11:04:29.108
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2020-03-04 13:09:40.704 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0-25
+java.vendor=Microsoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-7c2e8225-a8a9-408e-bc4c-66f814afc472
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data D:\Work\libraries\libCppCamera\platform\Android\CppCamera\.workspace javapkgsrv-7c2e8225-a8a9-408e-bc4c-66f814afc472
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-03-04 13:09:41.461
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-03-04 13:10:18.778
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2020-03-04 13:11:59.603 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0-25
+java.vendor=Microsoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-9c4cd2be-c5bf-415f-a080-0213145745c9
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data D:\Work\libraries\libCppCamera\platform\Android\CppCamera\.workspace javapkgsrv-9c4cd2be-c5bf-415f-a080-0213145745c9
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-03-04 13:12:00.379
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-03-04 13:12:45.154
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2020-03-04 13:15:29.277 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0-25
+java.vendor=Microsoft
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -application com.microsoft.javapkgsrv.application javapkgsrv-4dbdfe8a-f582-42f0-aa92-3610f7c6ac9f
+Command-line arguments:  -consoleLog -application com.microsoft.javapkgsrv.application -data D:\Work\libraries\libCppCamera\platform\Android\CppCamera\.workspace javapkgsrv-4dbdfe8a-f582-42f0-aa92-3610f7c6ac9f
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-03-04 13:15:30.005
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-03-04 14:27:08.171
+!MESSAGE The workspace will exit with unsaved changes in this session.

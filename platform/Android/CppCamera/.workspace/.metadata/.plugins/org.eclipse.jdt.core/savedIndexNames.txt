@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\Work\libraries\libCppCamera\platform\Android\CppCamera\.workspace\.metadata\.plugins\org.eclipse.jdt.core
+1794587225.index

@@ -1,0 +1,3 @@
+D:/Work/libraries/libCppCamera/build_android/arm32/CMakeFiles/CppCamera.dir
+D:/Work/libraries/libCppCamera/build_android/arm32/CMakeFiles/edit_cache.dir
+D:/Work/libraries/libCppCamera/build_android/arm32/CMakeFiles/rebuild_cache.dir

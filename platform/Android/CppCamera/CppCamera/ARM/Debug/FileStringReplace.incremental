@@ -1,0 +1,1 @@
+$(GradleVersion)=2.14.1;$(GradlePlugin)=gradle:2.2.3;$(AntDependencies)=;$(ApplicationId)=;$(ConfigurationType)=library;$(AarDependencies)=;$(AarDependenciesSettings)=;$(ApplicationName)=com.CppCamera;$(AndroidAppLibName)=CppCamera;$(AndroidBuildToolsVersion)=28.0.3;$(AndroidAPILevelNumber)=25;$(androidapilevel)=android-25;$(projectname)=CppCamera;
