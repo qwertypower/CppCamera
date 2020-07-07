@@ -1,5 +1,5 @@
 # CppCamera
-This project implements interaction width camera in C++ code.
+This project implements interaction with camera in C++ code.
 
 Dependencies: OpenCV modules: opencv_core, opencv_imgproc, opencv_videoio(win, linux, mac).
 
